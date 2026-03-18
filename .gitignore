@@ -1,0 +1,18 @@
+# Logs
+logs/
+
+# Dependency directories
+node_modules/
+
+# Production
+build/
+
+# Sensitive files
+config/database.yml
+config/database.json
+
+# Uploaded files
+uploads/
+
+# Cache
+cache/
